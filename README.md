@@ -46,12 +46,12 @@ Divya AI operates on the principle that the right question is often more importa
 
 ## The Divya AI Framework: A Tool for Continuous Learning
 
-The Divya AI framework revolves around an iterative learning model where learners continuously explore, reflect, and deepen their understanding. The process begins with an initial prompt and evolves as learners press "Go" to keep exploring.
+The Divya AI framework revolves around an iterative learning model where learners continuously explore, reflect, and deepen their understanding. The process begins with an initial prompt and evolves as learners type "Go" to keep exploring.
 
 ### Features:
 - **Iterative Prompts**: Continuous exploration through prompts that evolve with each answer.
 - **Self-Directed Learning**: Learners control the pace and depth of their learning journey.
-- **The "Go" Command**: A simple trigger that pushes the exploration further, allowing for ongoing engagement and deeper discovery.
+- **Typing "Go"**: A simple word/trigger that pushes the exploration further, allowing for ongoing engagement and deeper discovery.
 
 ---
 
