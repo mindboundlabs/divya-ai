@@ -1,1 +1,3 @@
-# Divya AI: The Transformative Learning Framework for Self-Discovery and Growth
+# Divya AI
+
+### **The Transformative Learning Framework for Self-Discovery and Growth**
