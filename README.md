@@ -150,6 +150,3 @@ The Divya AI framework offers a new paradigm in how we approach learning. By tap
 2. **Personalized Learning**: Tailoring learning to individual needs, interests, and learning styles.
 
 ---
-
-End of README
-
